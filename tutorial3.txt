@@ -1,0 +1,107 @@
+Aim:
+1) Understand and setup basic permissions   
+2) Ownership and attribute
+3) Manage Services
+4) Basic troubleshooting
+
+1)  Undeerstand and setup basic permissions: Permissions basically is of 3 types i.e, Read, write and execute.
+
+** These permissions can be understand in symbolic method:
+
+    Read -r &&    Write - w  &&    Execute - x  
+
+** In other way, these permissions can also be understand in numeric method:
+
+    Read -4  &&    Write - 2  &&  Execute - 1
+
+
+When we do ls -l :
+ Then it shows 2 things:
+ Owner name    Group name
+
+When we give permission in numerical form like 755, so here 7(r=4 +w=2 +x=1) for owner, 5(r=4 +w=0 +x=1) for group, 5(rwx) for other.
+
+From where these permission is authorised  -> by a variable called umask:
+
+find out the value of umask by typing 'umask' on terminal like
+  value of umask - 022
+
+If we want to find out that which permission is set over any folder then we will subtract the umask value from 777 we will get the permission provided to that folder.
+
+And same in case of file, we will subtract the umask value from 666 and we will get what exactly the permission over that file..
+
+tHIS IS THE WAY THROUGH CHMOD...MEANS WE PROVIDE THE PERMISSION THROUGH CHMOD
+👉️
+
+## now we learn how can we get the ownership of any files/folders..it is done by chown (own --ownership) to give the ownership of any user to any other user..
+
+The basic syntax for using chown to change owners is
+
+chown [options] new_owner object(s)
+      OR
+chown -R vijay:vijay(user_name) file_name
+
+where new_owner is the user name or the numeric user ID (UID) of the new owner, and object is the name of the target file, directory or link. The ownership of any number of objects can be changed simultaneously.
+
+For example, the following would transfer the ownership of a file named file1 and a directory named dir1 to a new owner named alice:
+
+chown alice file1 dir1
+
+
+>> We can also change the permission of the group by:
+
+chgrp vijay(grp_user name) file_name
+
+## Sometimes we accidentially delete some files so if we want no one will be able to remove that file even root also
+
+chattr +i file_name (where chattr - change attributes)
+
+To check whether change attribute (chattr) permission is set or not,
+do, lsattr
+then it will show 'i' in the line of file_name
+
+>> To remove chattr, 
+  chattr -i file_name
+
+## There are so many services running on our system so first we will check the path of the running services:
+
+ path: cd /etc/init.d      -> it will show all the running services in system
+
+to view the content of any service do, less service_name or cat service_name or vim service_name
+
+## To check the services status at a time, 
+  chkconfig --list
+
+
+## When somebody says that our system is slow plz check ...
+ then what we need to do and from where we can get the information of the system hanging issue..
+
+file path: /var/log/message ,  /var/log/audit/audit.log  , /var/log/secure  and all the other log files of ftp, mail  from /var/log/http
+
+** Some commands to check the system utility:
+   TOP, renice, ps, df -h, df -ah, free, fdisk -l, lspci , dmidecode (for BIOS)
+   system-config-services (to check the services status or to make any changes in the status of the services)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+

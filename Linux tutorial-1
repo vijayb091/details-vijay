@@ -1,0 +1,99 @@
+RHCSA  (Red Hat Certified System Administrator):
+
+RHCSA I (Paper code --RH124) for normal linux admin, Fee- $400
+RHCSA II (Paper code -- RH135) For some high level
+
+Linux uses genome i.e, Terminal not Konsole 
+bash- Bourne shell
+
+vi/vim is a text editor
+When we open terminal then the path which is opened: /etc/profile
+
+After profile.d then bash profile runs in existing user home directory (vi .bash_profile)
+then .bashhrc runs -> vi /etc/bashrc
+
+Every user is login in bash shell..
+
+# Set the password for root :
+  passwd root👉️
+
+# Login through root :
+   su -👉️
+
+#  To add the user:
+   adduser bhati-ji👉️ (user name)  (but it will not work untill we will not create password for this user)
+   set the password and the other details:
+
+# To set the password 
+
+# To check the no. of users in the system:
+  ls /home👉️
+
+# To delete the any user:
+
+  userdel -r bhati-ji (user_name)👉️ -> It will delete all the details included gmail and all other details because we are deleting this user in a recurssive manner
+
+# If we want to change the showing user directory i.e, from /home to anyone like /home/admin
+  
+  mkdir /home/admin
+  useradd -c "vijay" -d /home/admin/vijay vijay
+
+ when we do ls /home/admin
+   -> vijay
+
+# If we want that any user not able to login then 
+   passwd -l vijay (-l for locak
+
+
+# To login with any user of the system:
+  su - clixlogix (user name)
+
+# To lock and unlock any user:
+
+  To lock:passwd -l test(user name)
+  To unlock : passwd -u test(user name)
+
+# To set the limitations on user password to change his password within 90/.. days
+
+  chage -M 90 test(user name)
+
+# To send the pre-notifications to user to change his password before password expiration in 3 days:
+  chage -W 3 test  (W for warning)
+
+# To check the user policies activated for the particular user:
+  chage -l test (user name)
+
+# To set the password expiration date:
+   chage -E 2020-10-05 test
+
+# Where all the user and their passwords details are saved in system ?
+   less /etc/passwd
+
+# User passwords are saved in encrypted form :
+   less /etc/shadow
+
+# When we create any user then by default a local group also created and that group is called primary group and location is:
+  less /etc/group
+
+# To reboot system through cmd:
+   reboot
+
+#  To shut down system through cmd:
+   init 0 / shutdown -r +5 (it means system will shutdown after5 minutes)
+
+$  To stop this shutdown :
+   shutdown -c (c for cancel)
+
+
+
+
+  
+
+
+
+  
+
+
+
+
+

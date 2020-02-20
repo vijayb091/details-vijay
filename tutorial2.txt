@@ -1,0 +1,32 @@
+Aim:
+1> How to perform a basic installation..          4> User account troubleshooting
+2> Basic commands                                 5> Configure LDAP
+3> Manage process priorities                      6> CAT
+
+Basic installation method is consider in RHCSA exam is KKStart..
+
+Basic commands:
+1) ls > listing the directories
+2) ls -a > to show the hidden files and hidden files are those which is starting from .(dot)...
+3) ls -l > it will show all the directories alongwith the size of the files..
+4) cd > used to change the directory
+5) cd .. > to go one level up 
+6) pwd > present working directory
+7) mkdir > to create the directory / folder 
+9) mkdir -p test/testa/testq  > to create the directory inside directory
+10) rmdir dir_name > to remove the empty directory only
+11) rm -r dir_name > to delete the parent directory alongwith the child directory and it will ask when it comes to delete the child directories..
+12) rm -rf dir_name > If we want to delete the parent directory alongwith the child directories forcefully then it will not ask while removing the child directories
+13) cp source_file destination_file > cp used to copy the files from one files to another file..
+14) mv source_file destination_file > mv used to move the file from one to another place and it is also used to rename the files as:
+    mv file_name rename_name
+15) less /etc/profile > less command is used to view the content of the files, press 'j' to scroll down and 'k' to scroll up and 'q' to quiet.
+16) cat << EOF > test.txt  > it means content of test.txt will saved and file will auto closed when we write EOF and we can also view the content of test.txt file.
+
+
+# How to modifies the process priorities to improve the CPU utilisation..
+
+
+
+
+

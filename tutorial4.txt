@@ -1,0 +1,30 @@
+Aim: 
+i) Allocate additional permissions
+ii) Create partition, file system, mount partition
+iii) Create swap partition
+iv) Apply Access Control List on files and folders
+v) Encrypt file system
+vi) Compress files
+
+So, first we learn how to give additional permissions..
+
+Our all passwords bydefault save in /etc/shadow file... 
+and all the filepermissions is stored in /etc/sudoers  file..
+
+Let suppose i am login as a local user and try to view the content of the permission from file using cat /etc/sudoers
+then it will show permission denied so we have to use sudo to run this command to avoid the error..
+So, we will learn how to give all permissions to local user like root user..
+
+First, we will run this command from root user to give all the priviliges to the local user..
+so do,   vi /etc/sudoers then it will the show the permissions provided to the root user so we can here give the same permissions to the local user..like 
+root               ALL=(ALL:ALL) ALL
+clixlogix-vijay    ALL=(ALL:ALL) ALL
+
+But we will not try to make any changes by this way because if we will make any changes through this way then it may affect the system. 
+
+So we will use 'visudo' to make any changes i.e,  visudo
+and then we will do changes after root to local user..
+  
+
+
+
