@@ -1,0 +1,2215 @@
+https://gator4103.hostgator.com:2083
+User -  buckdat
+Password- Oj.{tz)tE#%a
+http://clixlogix.org/cpanel
+User -  clixl8k9
+PW:   82+xGFdoVA8Y
+
+
+
+
+
+1:14
+.
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:34 PM
+Login credentials for taper.app website:
+New credentials is : Username : skywalk202
+Password : admin@123
+
+
+
+
+
+
+Vijay Kr. Bhati  5:49 PM
+Today's topic : Lamp
+
+
+
+
+
+5:53
+ok
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:41 AM
+FTP Detail for Coregains.
+FTP:
+Host:  coregains.com
+Port:  22
+UserName:  tpfa42719412366
+PW:  Admin@gain?55 (edited) 
+
+
+
+
+
+
+Vijay Kr. Bhati  4:38 PM
+https://searchitoperations.techtarget.com/definition/GitHub
+
+SearchITOperationsSearchITOperations
+What is GitHub? - Definition from WhatIs.com
+GitHub is a distributed version-control platform where users can collaborate on or adopt open source code projects, fork code, share ideas and more.(18 kB)
+https://cdn.ttgtmedia.com/ITKE/images/logos/TTlogo-379x201.png
+
+
+
+
+
+
+Vijay Kr. Bhati  5:36 PM
+https://help.github.com/en/articles/adding-an-existing-project-to-github-using-the-command-line
+
+
+
+
+
+
+Vijay Kr. Bhati  3:48 PM
+All the tutorials i've seen till now shows to first create a repository on github, copy the link go to vscode and git clone it and from that on, you can do commits and pushes.
+
+
+
+
+
+
+Vijay Kr. Bhati  4:26 PM
+https://stackoverflow.com/questions/46877667/how-to-push-a-new-initial-project-to-github-using-vs-code
+
+Stack OverflowStack Overflow
+How to push a new initial project to github using vs code
+All the tutorials i've seen till now shows to first create a repository on github, copy the link go to vscode and git clone it and from that on, you can do commits and pushes. Is that the right wa...
+
+
+
+
+
+
+Vijay Kr. Bhati  11:11 AM
+mysecureshell
+
+
+
+
+
+
+Vijay Kr. Bhati  12:43 PM
+sclix?!9043
+
+
+
+
+
+
+Vijay Kr. Bhati  6:33 PM
+http://192.168.0.254/ DEV ip to change pwd and reboot
+
+
+
+
+
+
+Vijay Kr. Bhati  12:30 PM
+SN# CNDB144K4K  - HP Laptop (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:55 PM
+Git pwd:  Git?123
+
+
+
+
+
+1:58
+Local Git Server details:   SSH:    ssh git@192.168.0.71
+pW:   Git?123
+PAth:  /home/git (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  12:32 PM
+sudo sh -c "echo -1 > /sys/module/usbcore/parameters/autosuspend"
+Try this command in ubntu when keyboard and mouse freezes randomly in ubuntu.
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  3:39 PM
+AP pwd: ClixDev?99
+CLix BD ka :: Clix1@logix
+Clix_Dev pwd:  ClixlogixDev?999
+Costal pwd: Clix1logix$6060
+Airtel : 22799899
+ICN: Clix@123logix
+Clix-MeeTing-B downstairs: Clix999@logix
+Clix-meeting upstairs: 1costal@#clix (edited) 
+
+
+
+
+
+
+Vijay Kr. Bhati  12:44 PM
+Clix_Dev IP: http://192.168.0.254/
+Clix-Meeting B: 192.168.0.201 (meeting basement) (edited) 
+
+
+
+
+
+12:45
+Clix_AP Ip: 192.168.0.250
+
+
+
+
+
+12:45
+Clix_costal IP: 192.168.0.1 (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  3:07 PM
+Clix BD Area Router Detail
+Router access:   192.168.0.249
+User:    admin
+PW:   c1ndr3ll4
+WIFi Name:  Clix-BD
+PW:   Clix1@logix (edited)
+Clix-Meeting-B ROuter Detail
+Router access:     http://192.168.0.2
+User -  admin
+PW:     admin
+Wifi  Name:   Clix-MeeTing-B
+PW:  Clix999@logix (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:43 PM
+Clix-meeting upstairs router detail
+Router access: http://192.168.1.1
+User: admin
+Pwd: c1ndr3ll4
+Wifi Name: Clix-meeting basement
+Pwd: 1costal@#clix (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  7:09 PM
+IP address details:  Clix-Meeting-basement :::   http://192.168.0.253/
+Clix_Dev     :::::    http://192.168.0.254/
+Clix_AP    ::::::     http://192.168.0.250/ (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  12:47 PM
+MAC Address::
+Ubuntu:::::   ifconfig | grep HWaddr
+Windows::: ipconfig /all
+
+
+
+
+
+
+Vijay Kr. Bhati  11:30 AM
+38f9d3e46e23 (edited) 
+
+
+
+
+
+11:34
+F895EA75F44D
+
+
+
+
+
+11:34
+003de8ee7ffb
+
+
+
+
+
+
+Vijay Kr. Bhati  1:10 PM
+https://www.tutorialspoint.com/git/git_basic_concepts.htm
+
+tutorialspoint.comtutorialspoint.com
+Git - Basic Concepts
+The best text and video tutorials to provide simple and easy learning of various technical and non-technical subjects with suitable examples and code snippets.
+
+
+
+
+
+
+Vijay Kr. Bhati  6:03 PM
+ifconfig | grep HWaddr
+
+
+
+
+
+
+Vijay Kr. Bhati  3:01 PM
+sudo tail -f /var/log/syslog
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:43 PM
+Now, follow the second set of instructions, “Push an existing repository…”
+$ git remote add origin git@github.com:username/new_repo
+$ git push -u origin master
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:56 AM
+Github credentials details::
+User name:  vijayb091
+Pwd: bhatiboy@123
+email id: vijayb091.clixlogix@gmail.com
+
+
+
+
+
+
+Vijay Kr. Bhati  4:56 PM
+https://www.computerhope.com/issues/ch001927.htm
+
+computerhope.comcomputerhope.com
+How to install and use Git on Windows
+Steps on how to install and use Git on Microsoft Windows.
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:12 PM
+nano file_name command is use to edit any file on terminal (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:22 PM
+git remote -v command is used to know in which branch we are working? (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:10 PM
+driverscape.com/manufacturers/hp/laptops-desktops/p2-1336il/101301
+For download official drivers for hp
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:48 AM
+sudo cp -r /home/clixlogix/bhati23 (source) /home/clixlogix/vijay2(destination)
+:: For copy files & -r for recursive so that it can not create any error while copying the document
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:40 PM
+sudo rm -r file.name to delete any file
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  3:10 PM
+git push -f origin master (use this command to push the code on master branch forcefully so that any error not create)
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:56 PM
+ps -aux (command is used to check all the running programs in ubuntu)
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:41 AM
+Run excel in safe mode : Excel.exe /safe
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:27 PM
+git log  (to check the last commit of any user)
+
+
+
+
+
+
+Vijay Kr. Bhati  11:02 AM
+https://unifiedportal-mem.epfindia.gov.in/memberinterface/kyc/viewKYCRegistrationForm?_HDIV_STATE_=22-9-12B92B96DB0BD0563E20621355B424E8
+
+
+
+
+
+11:03
+https://unifiedportal-mem.epfindia.gov.in/memberinterface/
+
+
+
+
+
+
+Vijay Kr. Bhati  12:01 PM
+sudo apt-get install meld
+sudo apt-get install intltool itstool gir1.2-gtksource-3.0 libxml2-utils
+git clone https://git.gnome.org/browse/meld
+cd meld
+sudo python setup.py install
+
+GitLabGitLab
+GNOME / meld
+Meld is a visual diff and merge tool targeted at developers.
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:35 PM
+To Genrate SSH key-       ssh-keygen
+
+
+
+
+
+Added to your starred items
+1:35
+If ssh key is already exist:  then type cd ~/.ssh
+ls
+
+
+
+
+
+
+Vijay Kr. Bhati  1:49 PM
+https://www.geeksforgeeks.org/devices-used-in-each-layer-of-tcp-ip-model/
+
+GeeksforGeeksGeeksforGeeks
+Devices used in each layer of TCP/IP model - GeeksforGeeks
+Prerequisite – TCP/IP Model, Network Devices 1. Physical Layer – Physical layer of TCP/IP model is responsible for physical connectivity of two devices. Some of… Read More »
+Feb 27th, 2019
+
+
+
+
+
+
+Vijay Kr. Bhati  1:12 PM
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+
+Vijay Kr. Bhati  1:17 PM
+7MKW8-PFT63-V6DYC-C469B-9YXMQ
+
+
+
+
+
+
+Vijay Kr. Bhati  3:17 PM
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:03 AM
+cat ~/.ssh/id_rsa.pub
+
+
+
+
+
+11:03
+to see  ssh key
+
+
+
+
+
+
+Vijay Kr. Bhati  6:49 PM
+Media creation tool : used to upgrade any windows 7, 8.1 to win 10
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:46 PM
+How to check code is pushed on server or not by specific person:
+First login to server then go into respective directory i.e, cd /home/git
+ls
+cd GIT-REPOS and then ls and then move into respective project like cd meenfee.git
+git log
+
+
+
+
+
+
+Vijay Kr. Bhati  6:31 PM
+https://www.tutorialspoint.com/ubuntu/ubuntu_command_line.htm
+
+tutorialspoint.comtutorialspoint.com
+Ubuntu - Command Line - Tutorialspoint
+Ubuntu - Command Line - Ubuntu is a Linux based operating system and most Linux users are more familiar with the command line interface. In this chapter, we will go through some of the
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  7:15 PM
+FTP Username: alkomex@adsrva1.com
+FTP server: ftp.buckdatmedia.com
+FTP & explicit FTPS port:  21
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:37 AM
+https://join.slack.com/t/teamclixlogix/shared_invite/enQtNjExNzEyMDU0NDg3LTMxNDExNjQyMGJhY2Y5MzVlY2JiMmQzMjA2OGViODk3OTJiZDA2ZjllOGI0NTM1ZWJjM2IyMmQ2MjFiYTkzODc
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  3:42 PM
+.org server details:
+Hostname-  clixlogix.org
+User-  development@clixlogix.org
+Password-  clix?123, port - 21
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  6:36 PM
+FTP Username: kalonsurf@clixlogix.org
+FTP server: ftp.clixlogix.org
+FTP & explicit FTPS port:  21
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:50 PM
+How to configure SMTP ??
+
+
+
+
+
+4:50
+how to create a merge request in gitlab?
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:40 PM
+dimmer :a tool to reduce brightness in windows
+
+
+
+
+
+Added to your starred items
+1:41
+Use this link to create Slack account
+Vijay Kr. Bhati
+https://join.slack.com/t/teamclixlogix/shared_invite/enQtNjExNzEyMDU0NDg3LTMxNDExNjQyMGJhY2Y5MzVlY2JiMmQzMjA2OGViODk3OTJiZDA2ZjllOGI0NTM1ZWJjM2IyMmQ2MjFiYTkzODc
+Direct Message | Oct 17th, 2019 | View conversation
+
+
+
+
+
+
+Vijay Kr. Bhati  5:14 PM
+command "apt-get" in debian linuxe is same as "yum" command for rpm linux.
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:27 PM
+For login into meenfee server. ::
+
+
+
+
+
+1:31
+To check git logs and to check that code is comitted on server or not ::
+ssh clixserver@192.168.0.71
+pwd:
+su - git
+ls
+cd GIT-REPOS
+ls
+cd meenfee.git/
+git log (edited) 
+
+
+
+
+
+Added to your starred items
+1:33
+To commit and push the code on server :
+first go to that directory i.e,   cd meenfee3.zip
+git branch (to check on which branch we have to commit the code)
+git add .
+git commit -m "dddd"
+git push origin master
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:06 PM
+lsblk - command to check all the partiton of the system
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  12:15 PM
+When we face 500 internal server error then it is the files permission issue, it will be resolved by changing the files permissions
+
+
+
+
+
+
+Vijay Kr. Bhati  12:23 PM
+HOW TO create databse details in cpanel:
+Go to cpanel -> Databases -> MySql Database Wizard -> Give user name and pwd
+
+
+
+
+
+
+Vijay Kr. Bhati  12:34 PM
+To give permission to all files and folders :
+
+
+
+
+
+12:35
+1) Login to the server by ssh details
+2) go to that Directory of that project
+3) give permission - sudo chmod ...
+
+
+
+
+
+
+Vijay Kr. Bhati  1:29 PM
+To install .sh extension setup:
+1) First go to that directory through terminal
+2) then give permission, if required otherwise
+3) Run ./filename
+
+
+
+
+
+
+Vijay Kr. Bhati  1:52 PM
+To install .deb file in ubuntu:
+Use - sudo apt install ./name.deb (edited) 
+
+
+
+
+
+
+Vijay Kr. Bhati  1:54 PM
+When we want to completely remove any application:
+then run the following commands:
+dpkg --list (it will show all the applications installed with proper name)
+sudo apt-get remove app.name (it will completely remove that application)
+
+
+
+
+
+
+Vijay Kr. Bhati  3:54 PM
+To install any software in ubuntu from it's downloaded zip file, do
+sudo apt-get install zip
+
+
+
+
+
+
+Vijay Kr. Bhati  4:52 PM
+To setup git
+For existing project  use: git remote add origin git@192,168.0.71
+
+
+
+
+
+4:56
+To set github for new project:
+first login to server using ssh
+cd /home/git
+ls
+cd GIT-REPOS
+mkdir bristol
+cd bristol
+git init --bare
+git remote add origin git@192.168.0.71:/home/git/GIT-REPOS/bristol (/home/git/ -> copy url from terminal)
+git clone git@192.168.0.71 (give this url to candidate )
+(edited)
+
+
+
+
+
+
+Vijay Kr. Bhati  5:18 PM
+git remote add origin git @192.168.0.71:/home/git/GIT-REPOS/bristol
+
+
+
+
+
+
+Vijay Kr. Bhati  5:37 PM
+ssh clixserver@192.168.0.71
+pwd : c1ndr3ll4
+
+
+
+
+
+5:37
+GIT Server details
+Vijay Kr. Bhati
+ssh clixserver@192.168.0.71
+pwd : c1ndr3ll4
+Direct Message | Nov 8th, 2019 | View conversation
+
+
+
+
+
+
+Vijay Kr. Bhati  6:18 PM
+phpmyadmin details means -> Database details which is creaeted under MySql Database Wizard section in Databases
+
+
+
+
+
+
+Vijay Kr. Bhati  1:45 PM
+How to take backup of any app/website while pushung that code to server using git?
+
+
+
+
+
+1:46
+First, go to cpanel and then go to that project and then compress all the files except zip files into zip and rename that folder
+
+
+
+
+
+1:47
+After completion of compression: go to the url and write xyz.zip behind that url using /
+
+
+
+
+
+1:47
+Then the backup will start downloading
+
+
+
+
+
+1:49
+nd then go to member system and then go to that  project folder and write git init and then git remote add origin git@192.167.0.71
+
+
+
+
+
+1:50
+git add .
+git commit -m ""
+git push origin master
+Give permission from server end if it is required
+
+
+
+
+
+1:51
+How to commit and push the code from local user system to server
+Vijay Kr. Bhati
+How to take backup of any app/website while pushung that code to server using git?
+Direct Message | Nov 11th, 2019 | View conversation
+
+
+
+
+
+
+Vijay Kr. Bhati  3:43 PM
+https://www.urduitacademy.com/courses/videos/42/607
+
+urduitacademy.comurduitacademy.com
+Pfsense Lecture 6 (Network Monitoring Tools) | Urdu IT Academy
+Urdu IT Academy is an e-learning website. Its time for students to take command of their learning without using a classroom. Internet is a source that is convinenient and easy to accessible. UITA gives an increadible opportunity to students who wants to polish their skills in Technology.
+
+
+
+
+
+
+Vijay Kr. Bhati  7:24 PM
+Praete Credentials
+ssh-  ssh root@159.69.16.50
+User-           root
+Password-      un7cpAhNmWbiJcTk9mRn
+
+
+
+
+
+7:24
+Quant-energy details
+IPv4
+159.69.82.229
+ssh root@159.69.82.229
+pw:   gtN7TcpEVAxf9iXNdxjP
+
+
+
+
+
+
+Vijay Kr. Bhati  11:36 AM
+To close any application running which one is not closing using mouse click, just goto system monitor -> Processes -> Select that process and kill that by clicking on End Process.
+
+
+
+
+
+
+Vijay Kr. Bhati  5:13 PM
+CD Key: VK7JG-NPHTM-C97JM-9MPGT-3V66T
+
+
+
+
+
+
+Vijay Kr. Bhati  3:32 PM
+6HVJ2-WMTKW-2JDFW-W6M64-RXJFW
+
+
+
+
+
+
+Vijay Kr. Bhati  6:46 PM
+To find the serial number of windows system: type in cmd
+-> wmic bios get serialnumber
+
+
+
+
+
+
+Vijay Kr. Bhati  11:55 AM
+http://www.codework-systems.com/products/currentware/accesspatrol/
+  Tool to disable all usb ports remotely
+
+Codework-Systems
+Data Loss Prevention, Block USB Devices - AccessPatrol
+AccessPatrol can prevent external device access. Use AccessPatrol to ensure data loss prevention by locking down any devices you want. Free 14 day trial.(15 kB)
+http://www.codework-systems.com/images/currentware/APL.png
+
+
+
+
+
+
+Vijay Kr. Bhati  11:19 AM
+Amit@123
+
+
+
+
+
+11:19
+Ashmi@345
+
+
+
+
+
+11:22
+Gaurav@123
+
+
+
+
+
+11:23
+Zeeshan@345
+
+
+
+
+
+11:23
+Satpal@567
+
+
+
+
+
+
+Vijay Kr. Bhati  11:39 AM
+riaclix@123 (edited) 
+
+
+
+
+
+
+Vijay Kr. Bhati  1:15 PM
+Brijesh@123
+
+
+
+
+
+
+Vijay Kr. Bhati  1:11 PM
+To check whether apache2 is installed properly, just try to run and check the nature of localhost on web by
+> sudo service apache2 restart /stop
+(edited)
+
+
+
+
+
+1:15
+127.0.1.1  (apache2 is running on this ip)
+
+
+
+
+
+
+Vijay Kr. Bhati  1:23 PM
+Now, we install mysql-server
+
+
+
+
+
+1:26
+In LAMP,
+Apache -> used as web server
+MySQL -> used as relational database
+PhpMyadmin -> used as object oriented scripting language
+
+
+
+
+
+
+Vijay Kr. Bhati  1:53 PM
+When we get the error on terminal like after using sudo: no device configured for user
+Solution : sudo apt-get autoremove pamusb-common
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:37 PM
+Installation of LAMP:
+1) sudo apt-get update
+2) sudo apt-get install apache2
+3) sudo apt-get install mysql-server
+** to set pwd for mysql
+4) sudo mysql_secure_installation
+5) To reset the user name and password--- first Connect to MySQL by
+ >> mysql -u root -p
+ Then run the following commands:
+i)
+CREATE USER 'newuser'@'localhost' IDENTIFIED BY 'password';
+ii)
+GRANT ALL PRIVILEGES ON * . * TO 'newuser'@'localhost';
+iii) FLUSH PRIVILEGES;
+6) sudo apt-get install phpmyadmin (edited) 
+
+
+
+
+
+
+Vijay Kr. Bhati  12:13 PM
+CND8236F8D - Kajol laptop
+Product number:4JA86PA (edited) 
+
+
+
+
+
+12:15
+CND8144K4K- Reema laptop (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  7:07 PM
+bitbucket and github to add ssh keys for any projects
+
+
+
+
+
+
+Vijay Kr. Bhati  4:04 PM
+Port Numbers
+computer logical ports.html 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!-- saved from url=(0034)https://www.escotal.com/ports.html -->
+<html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+​
+<title>computer logical ports</title>
+Click to expand inline (263 lines)
+
+
+
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:44 PM
+Hardware requirements:
+1) 5 Mouse
+2) 1 HDMI Cable and 1 connector
+3) 2 Keyboard
+4) DDR4 - 4gb RAM (Reema System), DDR3 -Desktop RAM (Amit Kumar Choudhary), (edited) 
+
+
+
+
+
+
+Vijay Kr. Bhati  4:45 PM
+FTP Username: protifi@clixlogix.org
+FTP server: ftp.clixlogix.org
+FTP & explicit FTPS port:  21
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:30 PM
+sudo find /Directory -type d -exec chmod 755 {} \;
+sudo find /Directory -type f -exec chmod 644 {} \;
+for e.g, sudo find profiti -type d -exec chmod 755 {} \; (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  6:16 PM
+Clixlogix serverr details:
+User Name root
+Password y)9Jwn}Hy%Oc
+Old PW:    z{YrHWW_4UsR
+New-PW:   7m}lSH+gnBk-
+Primary IP 162.144.74.156
+[5:51 PM]
+ssh root@162.144.74.156
+[5:52 PM]
+cd /home/clix1/public_html/test
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  12:19 PM
+Vishal Photoshop ID::
+I'd: clixlogixteam005@adsrva1.com
+Pwd : Clix123homer (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  12:34 PM
+Avleen System SerialNumber
+CND8242BSS
+
+
+
+
+
+
+Vijay Kr. Bhati  5:55 PM
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+
+Vijay Kr. Bhati  7:03 PM
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+7:06
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+7:06
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  10:24 AM
+rajesh@091
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  3:17 PM
+Use sudo rm -r /directory name (to delete the directoy)
+
+
+
+
+
+
+Vijay Kr. Bhati  6:05 PM
+to search any file ;
+ locate -i some words that is contatin in searching file
+
+
+
+
+
+
+Vijay Kr. Bhati  11:28 AM
+FTP Username: psaudio@clixlogix.org
+FTP server: ftp.clixlogix.org
+FTP & explicit FTPS port:  21
+
+
+
+
+
+
+Vijay Kr. Bhati  12:52 PM
+clixlogix@!99o
+
+
+
+
+
+
+Vijay Kr. Bhati  1:50 PM
+VMYQR-XDJWM-MY3GX-G9WX2-GYQ3D
+
+
+
+
+
+
+Vijay Kr. Bhati  3:35 PM
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+
+Vijay Kr. Bhati  5:27 PM
+git remote add origin git@bitbucket.org:ClixApp/divethru.git
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  10:26 AM
+Clix999@logix - Clix-meeting wifi pwd
+
+
+
+
+
+Added to your starred items
+10:28
+Ip of Clix-meeting-B: 192.168.0.253
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  12:42 PM
+To import the mysql database : mysql -u username -p new_database
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:07 PM
+To export the mysql database :
+mysqldump -u username -p database_name > data-dump.sql
+
+
+
+
+
+
+Vijay Kr. Bhati  3:08 PM
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  3:55 PM
+How to give permission to external storage device ?
+   sudo chmod -R 777 /media/user name (clixlogix-vijay)/storage device name (untitled)
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  7:13 PM
+Vishal verma
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:02 AM
+sudo :- it will elevate your priviledges to execute the command.
+chmod:- command to change the permissions
+      OR
+cd /media/your_external_drive
+sudo chmod -R -v 777 *
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:09 AM
+Clix?!99o
+ujjwal.clix@gmail.com
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:05 PM
+to extract .debain file:
+  sudo dpkg -i filename
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  10:31 AM
+Vnc server / Vnc Viewer to put on remote one system (edited) 
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:24 PM
+apt-get — Use apt to work with packages in the Linux command line. Use apt-get to install packages
+
+
+
+
+
+
+Vijay Kr. Bhati  6:15 PM
+git clone git@192.168.0.71:veriklick
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  6:43 PM
+Shell Scripting:
+https://www.guru99.com/introduction-to-shell-scripting.html
+
+guru99.com
+Shell Scripting Tutorial for Linux/Unix Beginners
+Shell scripting is writing a series of command for the shell to execute. Learn basics of shell scripting in this tutorial.
+
+
+
+
+
+
+Vijay Kr. Bhati  1:35 PM
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+
+Vijay Kr. Bhati  3:19 PM
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:39 PM
+git clone gituser@git.server.com:project.git
+
+
+
+
+
+
+Vijay Kr. Bhati  4:48 PM
+After commit to view log details, he runs the git log command. It will display the information of all the commits with their commit ID
+
+
+
+
+
+
+Vijay Kr. Bhati  1:05 PM
+Robin yadav- no number
+
+
+
+
+
+1:07
+Krishna - no number
+
+
+
+
+
+1:08
+Shivangi mam- Clix/keyboard/030
+
+
+
+
+
+1:08
+Ajay sir-026
+
+
+
+
+
+1:09
+Ranjeet sir- 013
+
+
+
+
+
+1:10
+Vinod sir- 035
+
+
+
+
+
+1:10
+Anshul - 039
+
+
+
+
+
+1:10
+Satyapal sir- 009
+
+
+
+
+
+1:11
+Zeeshan- 007
+
+
+
+
+
+1:11
+Gaurav-011
+
+
+
+
+
+1:11
+Ujjwal- 032
+
+
+
+
+
+1:11
+Ashmi-021
+
+
+
+
+
+1:12
+Shrikant sir-029
+
+
+
+
+
+1:12
+Avinesh-023
+
+
+
+
+
+1:12
+Shubham- no sticker
+
+
+
+
+
+1:12
+Jinish-031
+
+
+
+
+
+1:13
+Vishal-002
+
+
+
+
+
+1:13
+Priyanka gupta-027
+
+
+
+
+
+1:13
+Sandeep - no sticker
+
+
+
+
+
+1:13
+Akshita- 034
+
+
+
+
+
+1:14
+Ravi sir-006
+
+
+
+
+
+1:14
+Muskan -003
+
+
+
+
+
+1:15
+Tahir - 025
+
+
+
+
+
+1:15
+Dilip sir_ 015
+
+
+
+
+
+1:15
+Himanshu goel- 016
+
+
+
+
+
+1:15
+Ria -005
+
+
+
+
+
+1:16
+Karan mittal -036
+
+
+
+
+
+1:16
+Joel system -037
+
+
+
+
+
+1:17
+Harsh sir-040
+
+
+
+
+
+1:18
+Rahul - 020
+
+
+
+
+
+1:18
+Amit- 014
+
+
+
+
+
+1:18
+Sumit- 001
+
+
+
+
+
+1:18
+Madhur- 008
+
+
+
+
+
+1:19
+Palwinder- no sticker
+
+
+
+
+
+1:19
+Varsha- no sticker
+
+
+
+
+
+1:19
+Chanchal- 004
+
+
+
+
+
+1:20
+Himanshu verma- 022
+
+
+
+
+
+1:20
+Dashmesh- 028
+
+
+
+
+
+1:20
+Alok singh- no sticker
+
+
+
+
+
+1:21
+Abhishek Rocky - 024
+
+
+
+
+
+
+Vijay Kr. Bhati  4:45 PM
+Server room -038
+
+
+
+
+
+
+Vijay Kr. Bhati  12:02 PM
+033
+
+
+
+
+
+12:03
+041-wired
+
+
+
+
+
+12:03
+010-wired
+
+
+
+
+
+12:03
+043- wired
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  12:22 PM
+When we facing 404 error then we need to remove index.php file and rename the file index to index.html
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:19 PM
+When phpmyadmin not installing during lamp:
+>  sudo add-apt-repository ppa:phpmyadmin/ppa
+> sudo apt-get update
+> sudo apt-get install phpmyadmin
+(edited)
+
+
+
+
+
+
+Vijay Kr. Bhati  5:01 PM
+Bristol ki 66 wale server ki details present in seo reseller folder
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  10:59 AM
+https://uc.xyz/1cSFKv?pub=link
+
+img.ucweb.comimg.ucweb.com
+https://freecoursesite.com/(4 kB)
+https://img.ucweb.com/s/uae/g/3k/share-reflux/public/img/link_cover.png
+
+
+
+
+
+
+Vijay Kr. Bhati  11:39 AM
+Clix@!123o
+shaillykumar.clix@gmail.com
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:42 PM
+When ubuntu system hangs, then do
+  If SysReq key works, you can kill processes one-by-one using Alt+SysReq+F. Kernel will kill the mostly «expensive» process each time. If you want to kill all processes for one console, you can issue Alt+SysReq+K.
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  6:34 PM
+command to add ssh through terminal : nano ~/.ssh/known_hosts
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:45 PM
+How to take the backup of project dbs:
+  First go to cpanel -> then go to project directory -> wpconfig.php (edit it and find the name of database) and then go to phpmyadmin in cpanel and then search the name of that db and then export that db in your system..
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:57 PM
+tail -5 /var/www: command is used to see the content of the last no. Of lines
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:24 AM
+ACL is used to set permission over permission using setfacl and getfacl
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  8:09 AM
+Subnetting is a method of dividing the large n/w into small n/w.
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  12:57 PM
+VPN (Virtual Private Network) is used to create tunnels and used for the security purposes.
+
+
+
+
+
+
+Vijay Kr. Bhati  1:41 PM
+Updated One
+This file can’t be shown because your workspace has passed the free plan’s 5 GB storage limit. See paid plans
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:52 PM
+gmail details:
+ email id: vijayb091.clixlogix@gmail.com
+ pwd:  vijaybhati@!99o
+
+
+
+
+
+
+Vijay Kr. Bhati  5:29 PM
+Linux tutorials summary (edited) 
+4 files 
+Linux tutorial-1
+2 kB Plain Text— Click to open
+
+
+
+tutorial2.txt
+2 kB Plain Text— Click to open
+
+
+
+tutorial3.txt
+3 kB Plain Text— Click to open
+
+
+
+tutorial4.txt
+1 kB Plain Text— Click to open
+
+
+
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:11 PM
+https://www.geeksforgeeks.org/nmcli-command-in-linux-with-examples/
+
+GeeksforGeeksGeeksforGeeks
+nmcli command in Linux with Examples - GeeksforGeeks
+nmcli is a command-line tool which is used for controlling NetworkManager. nmcli commnad can also be used to display network device status, create, edit, activate/deactivate,… Read More »
+Apr 1st, 2019
+
+
+
+
+
+
+Vijay Kr. Bhati  1:35 PM
+44:46:87:71:e4:fb
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:48 PM
+fsck /dev/sda2
+
+
+
+
+
+Added to your starred items
+5:49
+Busy box problem
+
+
+
+
+
+
+Vijay Kr. Bhati  10:50 AM
+upendra.clixlogix@gmail.com
+Clixlogix?!123o
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  12:14 PM
+Procedure to add ssh key on local git server i.e,
+Login through -> ssh clixserver@192.168.0.71
+ pwd: c1ndr3ll4
+su - git (go to git user) and password is Git?123
+cd .ssh/
+ls
+sudo nano authorized_keys   : to add the ssh key (edited) 
+
+
+
+
+
+
+Vijay Kr. Bhati  4:01 PM
+cd ./ssh
+
+
+
+
+
+
+Vijay Kr. Bhati  11:32 AM
+clix?!123o
+roushan.clix@gmail.com
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:35 PM
+When we want to check the services list then we do
+  chkconfig —list ; it will show all the services running on our system.
+If we want to check any particular specific service status then we need to do ;
+ chkconfig —list service name
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:37 PM
+Bitbucket details  :this:
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:15 PM
+URL-      https://bitbucket.org/
+User-  git@clixlogix.com
+password-   Clix$%#Lo123
+URL-   https://bitbucket.org
+User-   hasan@clixlogix.com
+PW:     Clix_?App441
+Git hub detail:
+info@clixlogix.com
+g1tcl1x
+
+BitbucketBitbucket
+Bitbucket | The Git solution for professional teams
+Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team.
+
+BitbucketBitbucket
+Bitbucket | The Git solution for professional teams
+Collaborate on code with inline comments and pull requests. Manage and share your Git repositories to build and ship software, as a team.
+
+
+
+
+
+
+Vijay Kr. Bhati  1:43 PM
+9711521996
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  3:34 PM
+Using the top command in the terminal lists processes, sorted by their CPU usage (and you can change it to sort by another parameter)
+
+
+
+
+
+
+Vijay Kr. Bhati  3:51 PM
+Priyanka : 21
+
+
+
+
+
+
+Vijay Kr. Bhati  11:54 AM
+Ronak: 60
+IMG_20200213_115421.jpg 
+IMG_20200213_115421.jpg
+
+
+
+
+
+
+
+
+Vijay Kr. Bhati  6:52 PM
+Binary 
+CLixlogix architecture.pkt
+57 kB Binary— Click to download
+
+
+
+
+
+
+
+
+Vijay Kr. Bhati  7:00 PM
+Clixlogix architecture.png 
+Clixlogix architecture.png
+
+
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  11:48 AM
+Lightshot is used to mark the  area which we want to use as a screenshot.
+
+
+
+
+
+
+Vijay Kr. Bhati  12:24 PM
+https://www.youtube.com/watch?v=HkUtZDvz5Pw
+
+YouTubeYouTube | Engineers Time
+assign IP address to router in cisco packet tracer HINDI ME | router configuration |  CCNA tutorial
+
+
+
+
+
+
+
+Vijay Kr. Bhati  10:57 AM
+Gmail Id: digvijay.clix@gmail.com
+Pwd: Clix?!90432
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:25 PM
+https://www.ostechnix.com/install-apache-mysql-php-lamp-stack-on-ubuntu-18-04-lts/
+
+OSTechNixOSTechNix
+Install Apache, MySQL, PHP (LAMP) Stack On Ubuntu 18.04 LTS
+This step by step tutorial describes how to install apache, mysql, php (LAMP) stack on Ubuntu 18.04 LTS server operating system.
+Feb 5th, 2019
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  4:36 PM
+hostnamectl set-hostname vijay
+ to change hostname
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  3:31 PM
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'root@123';
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  1:32 PM
+when we commit our changes then to see our commit status do: git log
+and let say we want to make some changes in the last commit then we do, git show
+and when we finally done all the changes then we can also review all the changes by; "git diff command", it will show all the deleted lines by '-' sign and added lines by '+' signs.
+
+
+
+
+
+Added to your starred items
+
+Vijay Kr. Bhati  5:01 PM
+git push origin master -f
